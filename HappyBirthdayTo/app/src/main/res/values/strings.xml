@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HappyBirthdayTo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sign_up_page">SignUpPage</string>
+    <string name="title_activity_see_birthday">SeeBirthday</string>
+</resources>
